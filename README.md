@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> AI Enthusiast | Problem Solver |A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CPU Scheduking Visualizer<br><br>🌱 I’m currently learning Machine Learninig| MERN Stack<br><br>💬 Ask me about react,html,c,c++,python,java,javascript,ML<br><br>📫 How to reach me abhijeetsinghrajput05@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1VXTQo5AcfoUKlZ7MvkyuWDmeYKVbjuF9/view?usp=drivesdk
+🔭 I’m currently working on CPU Scheduking Visualizer<br><br>🌱 I’m currently learning Machine Learninig| MERN Stack<br><br>💬 Ask me about react, ML<br><br>📫 How to reach me abhijeetsinghrajput05@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1VXTQo5AcfoUKlZ7MvkyuWDmeYKVbjuF9/view?usp=drivesdk
 
 
 ## 🌐 Socials:
