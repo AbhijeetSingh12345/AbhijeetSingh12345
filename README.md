@@ -4,9 +4,16 @@
 # 💫 About Me:
 🔭 I’m currently working on CPU Scheduking Visualizer<br><br>🌱 I’m currently learning Machine Learninig| MERN Stack<br><br>💬 Ask me about react, ML<br><br>📫 How to reach me abhijeetsinghrajput05@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1VXTQo5AcfoUKlZ7MvkyuWDmeYKVbjuF9/view?usp=drivesdk
 
+Computer Science undergraduate with strong foundations in Data Structures, Algorithms, Object-Oriented Programming 
+(OOP) and Artificial Intelligence / Machine Learning (AI/ML). Proficient in C++, Java, JavaScript and Python with hands-on 
+experience building full-stack web applications using React.js. Experienced with RESTful API development, version control 
+using Git/GitHub and deploying machine learning models with TensorFlow, Keras and OpenCV. Passionate about writing 
+clean, scalable code and delivering high-quality software solutions. 
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetsinghrajput05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-singh-7657a925b/)
 
 
 <div align="center">
